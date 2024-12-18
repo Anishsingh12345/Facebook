@@ -2,24 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-18T12:15:50 IST" name="Default suite" finished-at="2024-12-18T12:16:04 IST" duration-ms="13861">
+  <suite started-at="2024-12-18T14:15:37 IST" name="Suite" finished-at="2024-12-18T14:15:37 IST" duration-ms="47">
     <groups>
     </groups>
-    <test started-at="2024-12-18T12:15:50 IST" name="Default test" finished-at="2024-12-18T12:16:04 IST" duration-ms="13861">
-      <class name="testcases.tc_posting">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.tc_posting@7927bd9f]" started-at="2024-12-18T12:15:51 IST" name="setup" finished-at="2024-12-18T12:15:56 IST" duration-ms="4717" status="PASS">
+    <test started-at="2024-12-18T14:15:37 IST" name="Test" finished-at="2024-12-18T14:15:37 IST" duration-ms="47">
+      <class name="testcases.learn">
+        <test-method signature="m1()[pri:0, instance:testcases.learn@61322f9d]" started-at="2024-12-18T14:15:37 IST" name="m1" finished-at="2024-12-18T14:15:37 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="ThisISpostingTestCase()[pri:0, instance:testcases.tc_posting@7927bd9f]" started-at="2024-12-18T12:15:56 IST" name="ThisISpostingTestCase" finished-at="2024-12-18T12:16:04 IST" duration-ms="8108" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ThisISpostingTestCase -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:testcases.tc_posting@7927bd9f]" started-at="2024-12-18T12:16:04 IST" name="teardown" finished-at="2024-12-18T12:16:04 IST" duration-ms="299" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- testcases.tc_posting -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+        </test-method> <!-- m1 -->
+      </class> <!-- testcases.learn -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
